@@ -1,4 +1,4 @@
-# Examen 1: Data Mining
+# Examen Final: Data Mining
 
 ## Descripción
 Examen Final de Data Mining.
