@@ -18,7 +18,7 @@ Instrucciones para instalar el proyecto.
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/Ericson3100/ExamenFinalDM
+git clone https://github.com/Ericson3100/ExamenFinalDM.git
 
 # Navegar al directorio del proyecto
 cd proyecto1
